@@ -114,7 +114,7 @@ All other imports (`re`, `base64`, `codecs`, `urllib`, etc.) are Python standard
 **1. Clone or download the project**
 
 ```bash
-git clone https://github.com/your-username/cipherscope.git
+git clone https://github.com/AuliaLamapaha/CipherScope.git
 cd cipherscope
 ```
 
